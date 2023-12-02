@@ -1,0 +1,134 @@
+.sign-in-label {
+    -fx-font-size: 30px;
+    -fx-text-fill: #2E2E2E;
+   
+    -fx-padding: -210px 0 0 -135px; 
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+.StockLab-style{
+	 -fx-font-size: 35px;
+    -fx-text-fill: #2E2E2E;
+     -fx-font-family: "Proza Libre";
+     -fx-font-weight: 700; 
+    -fx-padding: -400px 0 0 -85px;
+}
+
+.Gmailst-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+
+
+.Phonest-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+
+.rectangle-style {
+	-fx-fill: #2E2E2E;
+}
+
+.email-field {
+    -fx-background-color: #FFF;
+    -fx-border-color: #2E2E2E;
+    -fx-border-width: 1px;
+    -fx-border-radius: 30px;
+    -fx-padding: 8px 15px;
+    -fx-box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33);
+	-fx-max-width: 255px;
+	-fx-background-insets: 0;
+    -fx-background-radius: 29px; 
+	
+}
+
+.Rentrezpass-field {
+    -fx-background-color: #FFF;
+    -fx-border-color: #2E2E2E;
+    -fx-border-width: 1px;
+    -fx-border-radius: 30px;
+    -fx-padding: 8px 15px;
+    -fx-box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33);
+	-fx-max-width: 255px;
+	-fx-background-insets: 0;
+    -fx-background-radius: 29px; 
+	
+}
+
+
+
+
+.UserNameField-Style{ -fx-background-color: #FFF;
+    -fx-border-color: #2E2E2E;
+    -fx-border-width: 1px;
+    -fx-border-radius: 30px;
+    -fx-padding: 8px 15px;
+    -fx-box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33);
+	-fx-max-width: 255px;
+	-fx-background-insets: 0;
+    -fx-background-radius: 29px; 
+	}
+	
+.passField-Style{ -fx-background-color: #FFF;
+    -fx-border-color: #2E2E2E;
+    -fx-border-width: 1px;
+    -fx-border-radius: 30px;
+    -fx-padding: 8px 15px;
+    -fx-box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33);
+	-fx-max-width: 255px;
+	-fx-background-insets: 0;
+    -fx-background-radius: 29px; 
+	}
+	
+	
+.rectanglesefli-style {
+	-fx-fill: #2E2E2E;
+	-fx-border-radius: 29px 29px 0px 0px;
+}
+
+
+.Infor-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+.Confirm-Style{
+	-fx-background-color: #FEB700;
+	-fx-font-size: 16px; 
+	-fx-min-width: 95px;
+	 -fx-font-family: "Proza Libre";
+	-fx-min-height: 30px;
+	-fx-background-radius: 18px; 
+	-fx-background-insets: 0;
+    -fx-background-radius: 29px; 
+}
+
+.Already-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #252525;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+.Login-Style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FEB700;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+.rectangleBlur-Style{
+	  -fx-fill: #FFF;
+	
+}
+
+
